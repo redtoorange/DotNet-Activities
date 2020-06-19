@@ -1,0 +1,11 @@
+﻿/API/bin/
+/API/obj/
+/API/ActivityApp.db
+/.idea/
+/.vs/
+/Application/bin/
+/Application/obj/
+/Domain/bin/
+/Domain/obj/
+/Persistence/bin/
+/Persistence/obj/
